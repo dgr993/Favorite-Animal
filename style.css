@@ -1,0 +1,16 @@
+img {
+    width:  50%;
+    height: 50%;
+    float: left;
+    margin: 0 2.5% 7% 0;
+}
+
+footer {
+    float: left;
+}
+
+/* #source { */
+    position: relative;
+    top: 325px;
+    right: 52.5%;
+}
